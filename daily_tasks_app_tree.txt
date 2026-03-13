@@ -1,0 +1,14 @@
+README.md
+app.py
+assert_tests.py
+guides/guia_pruebas_automatizadas.md
+guides/guia_pruebas_con_asserts.md
+guides/guia_sonarqube.md
+pytest.ini
+requirements.txt
+sonar-project.properties
+src/models/task.py
+src/services/task_manager.py
+src/storage/json_storage.py
+src/ui/main_window.py
+tests/test_task_manager_pytest.py
