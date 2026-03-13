@@ -1,0 +1,4 @@
+pywinauto
+pytest
+pytest-html
+psutil
