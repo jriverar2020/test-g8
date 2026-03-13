@@ -11,13 +11,13 @@ Este archivo contiene funciones que ejecutan validaciones básicas del sistema.
 
 ## 3. Ejecutar las pruebas
 Desde la raíz del proyecto:
-
-```bash: con assert puro
+con assert puro
+```bash: 
 python assert_tests.py
 ```
-
-```bash: con assert pytest
-python assert_tests.py
+con pytest
+```bash: 
+python -m pytest
 ```
 
 
