@@ -1,4 +1,3 @@
-pywinauto
 pytest
 pytest-html
-psutil
+pywinauto
